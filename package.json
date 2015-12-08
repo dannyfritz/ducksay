@@ -1,6 +1,6 @@
 {
   "name": "ducksay",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Ducks say things",
   "main": "index.js",
   "repository": {
