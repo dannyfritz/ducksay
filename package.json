@@ -1,6 +1,6 @@
 {
   "name": "ducksay",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Ducks say things",
   "bin": "cli.js",
   "main": "index.js",
