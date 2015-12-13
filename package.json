@@ -2,6 +2,7 @@
   "name": "ducksay",
   "version": "2.0.1",
   "description": "Ducks say things",
+  "bin": "cli.js",
   "main": "index.js",
   "repository": {
     "type": "git",

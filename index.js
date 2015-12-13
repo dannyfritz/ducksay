@@ -1,6 +1,10 @@
-var argv = require('yargs').argv;
-var cowsay = require('cowsay')
-console.log(cowsay.say({
-  text: argv._.join(' '),
-  f: './duck.cow'
-}))
+'use strict';
+
+var cowsay = require('cowsay');
+
+module.exports = function (message) {
+  return cowsay.say({
+    text: message,
+    f: './duck.cow'
+  })
+}
