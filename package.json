@@ -17,7 +17,9 @@
     "ducksay": "node index.js"
   },
   "keywords": [
-    "ducks"
+    "ducks",
+    "ducksay",
+    "cowsay"
   ],
   "author": "Danny Fritz <dannyfritz@gmail.com>",
   "license": "MIT"
