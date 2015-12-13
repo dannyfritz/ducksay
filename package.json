@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "cowsay": "^1.1.2",
+    "get-stdin": "^5.0.1",
+    "trim": "0.0.1",
     "yargs": "^3.31.0"
   },
   "devDependencies": {},
